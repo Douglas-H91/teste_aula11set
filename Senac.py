@@ -1,7 +1,7 @@
 
-'''#Atividades Aula 2
+#Atividades Aula 2
 
-#Classificador de Temperatura#
+#Classificador de Temperatura
 
 temperatura = int(input('Digite a temperatura '))
 if temperatura < 15:
@@ -9,9 +9,9 @@ if temperatura < 15:
 if temperatura >= 15 and temperatura <= 25:
     print('Agradável')
 if temperatura > 25:
-    print('Calor!')'''
+    print('Calor!')
 
-'''#Verificador de Login#
+#Verificador de Login
 
 user1 = input('Digite o usuário ')
 senha = input('Digite a senha ')
@@ -20,9 +20,9 @@ senha_correta = 'senac123'
 if user1 == user_correto and senha == senha_correta:
     print('Acesso liberado')
 else:
-    print('Acesso negado!')'''
+    print('Acesso negado!')
 
-'''#Calculadora de Desconto#
+#Calculadora de Desconto#
 
 produto = float(input('Digite o valor do produto '))
 if produto > 200:
@@ -44,7 +44,7 @@ else:
 if numero % 2 == 0:
     print('número par')
 else:
-    print('numero ímpar')'''
+    print('numero ímpar')
 
 """#Atividades Aula 1 e 4
 

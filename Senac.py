@@ -1,3 +1,11 @@
+#teste de execucao de branch
+print(f'Teste de branch com temperatura {temperatura}')
+
+alunos = {
+    novos: 'Ana', 'Barbara', 'Carla', 'Daniela',
+    idades: 35, 35, 35, 34,
+    cidades: sp´, rj, rj, rj
+}
 
 #Atividades Aula 2
 

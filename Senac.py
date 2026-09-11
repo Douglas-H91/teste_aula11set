@@ -552,11 +552,10 @@ molho = 3.7
 oleo = 8.9
 total = 0.0
 
-resposta = input('Azul ou Verde? ')
+resposta = input('Azulou Verde? ')
 match resposta:
     case 'Azul':
         print('Parabéns')
     case 'Verde':
         print('OPA!')"""
-
 

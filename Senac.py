@@ -537,18 +537,9 @@ else:
 
 #Simulador de Supermercado utilizando Match/Case
 
-"""arroz = 24.90
-feijao = 8.5
-macarrao = 4.30
-molho = 3.7
-oleo = 8.9
-total = 0.0
+print ('Gohan')
 
-resposta = input('Azul ou Verde? ')
-match resposta:
-    case 'Azul':
-        print('Parabéns')
-    case 'Verde':
-        print('OPA!')"""
+print ('vivo')
+
 
 
